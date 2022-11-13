@@ -8,7 +8,7 @@
 My main tasks were to build and support products for a diverse set of tech companies, from seeding stages startups to IPOs.
 Since the industry has been growing I have had many roles and combinations of them.
 
-👨‍💻 SysAdmin, DevOps, Full-stack Engineer, Tech Lead. I consider myself a jack of all trades and quick learner.
+👨‍💻 Software Engineer, SysAdmin, DevOps, Tech Lead. I consider myself a jack of all trades and quick learner.
 
 💞️ Currently I have a newfound passion about Web3, the future of the internet, so I'm taking time off and diving deep into the Ethereum ecosystem and community.
 
