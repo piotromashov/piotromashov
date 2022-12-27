@@ -2,7 +2,7 @@
 
 🧠 Until recently I worked in research on Artificial Intelligence for my masters thesis in Switzerland, and we were selected to present our findings at IJCAI-22 Vienna, which is an AI world renowned conference. 📝  [Paper link](https://doi.org/10.24963/ijcai.2022/104).
 
-🛡️ Before that I worked as a Security Software Engineer for almost 4 years in a product company.
+🛡️ Before that I worked as a Security Software Engineer for almost 4 years at a big tech product company.
 
 👨‍💻   I've been studying and working in the IT industry for the past 10 years, in which I've acquired knowledge and expertise in lots of technologies. During my career my main tasks were to build and support products for a diverse set of tech companies, from seeding stages startups to IPOs. 
 
