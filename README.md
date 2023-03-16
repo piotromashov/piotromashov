@@ -1,17 +1,21 @@
 👋 Hi, I’m @piotromashov. I'm a Software Engineer and Ms. in Computer Science.
 
-🧠 Until recently I worked in research on Artificial Intelligence for my masters thesis in Switzerland, and we were selected to present our findings at IJCAI-22 Vienna, which is an AI world renowned conference. 📝  [Paper link](https://doi.org/10.24963/ijcai.2022/104).
+---
 
-🛡️ Before that I worked as a Security Software Engineer for almost 4 years at a big tech product company.
+🧑‍💻 I'm a Backend Engineer w/10 years of experience in tech industry and a Masters degree in Computer Science. I've been working in tech companies from seeding stages in accelerators to IPOs and market leaders, and I enjoy bringing new ideas, collaborating, filling gaps, and leading product development.
+
+🔥 Volunteer at our regional burning man event, I build, improve and maintain the ticketing system, as well as helping with general production and coordination. [FuegoAustral](https://github.com/fuegoaustral).
+
+🧠  My latest work is scientific research on AI at a University in Switzerland, in which we developed a novel method to explain the machine learning models predictions. We performed experiments and deep comparison with other state-of-the-art methods, using several large datasets. We were invited to present our results in a world renowned AI conference (IJCAI). 📝 [Paper link](https://doi.org/10.24963/ijcai.2022/104)
+
+🛡️ Before that I worked as a Security Software Engineer for three years at [Medallia](https://www.linkedin.com/company/medallia-inc./)
 
 👨‍💻   I've been studying and working in the IT industry for the past 10 years, in which I've acquired knowledge and expertise in lots of technologies. During my career my main tasks were to build and support products for a diverse set of tech companies, from seeding stages startups to IPOs. 
 
 📈 Since the industry has been growing I have had many roles and combinations of them. Software Engineer, Backend, FullStack, SysAdmin, DevOps, Tech Lead.
 
-💞️ Currently I have a newfound passion about Web3, the future of the internet, so I'm taking time off and diving deep into the Ethereum ecosystem and community. I'm learning Smart Contract security auditing and development on Ethereum blockchain.
+🎧 As a hobbie, I'm a DJ/Producer/Electronic Artist, I also develop custom lightning/sensor systems using microcontrollers: arduino and ESP32.
 
-🎧 I'm a DJ/Producer, and I also develop lightning/sensor systems using arduino. 
-
-🔥 Member of the local burning man community: [FuegoAustral](https://github.com/fuegoaustral).
+---
 
 You can find me here 👉 📬 [Mail](promachov@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/piotromashov/) | 🐦 [Twitter](https://twitter.com/piotromashov) | 📸 [Instagram](https://www.instagram.com/piotromashov/)   
