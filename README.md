@@ -3,23 +3,21 @@
 ---
 ### Research/Engineering
 
-🧑‍💻 I'm a Backend Engineer w/10 years of experience in tech industry and a Masters degree in Computer Science. I've been working in tech companies from seeding stages in accelerators to IPOs and market leaders, and I enjoy bringing new ideas, collaborating, filling gaps, and leading product development.
+🧑‍💻 I'm a Software Engineer w/10 years of experience in tech industry and a Masters degree in Computer Science. I've been working in tech companies from seeding stages in accelerators to IPOs and market leaders, and I enjoy bringing new ideas, collaborating, filling gaps, and leading product development.
 
-🧠  Did scientific research on AI at a University in Switzerland, in which we developed a novel method to explain the machine learning models predictions.  
+🧠  Performed scientific research on AI at a University in Switzerland, in which we developed a novel method to explain the machine learning models predictions.  
 
-📝  We were invited to present our results in a world renowned AI conference (IJCAI). [Paper link](https://doi.org/10.24963/ijcai.2022/104)
+📝  Were invited to present our results in a world renowned AI conference (IJCAI). [Paper link](https://doi.org/10.24963/ijcai.2022/104)
 
 🛡️ Before that I worked as a Security Software Engineer for four years at [Medallia](https://www.linkedin.com/company/medallia-inc./) .
 
 📈 Since the industry has been growing I have had many roles and combinations of them. Software Engineer, Backend, FullStack, SysAdmin, DevOps, Tech Lead. 
 
-⛓️ I have interests in Web3 and Ethereum ecosystem. I understand about blockchain engineering and perform security audits.
-
-🧠 Currently I'm working as a AI researcher & Engineer.
+🧠 Currently I'm working as a AI researcher & Engineer using LLMs, Prompt Engineering, RAG and Fine Tunning.
 
 ---
 
-### Tecno-Artist  
+### Techno-Artist  
 
 🔥 I participate in the organization of the regional burning man in Argentina, and also mantainer of the ticketing system. [FuegoAustral](https://github.com/fuegoaustral).
 
