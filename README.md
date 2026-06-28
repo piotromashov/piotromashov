@@ -19,8 +19,6 @@
 
 ### Techno-Artist  
 
-🔥 I participate in the organization of the regional burning man in Argentina, and also mantainer of the ticketing system. [FuegoAustral](https://github.com/fuegoaustral).
-
 🎧 I'm a DJ/Producer.
 
  🚦I create visual experiences using custom lightning systems using Arduino, ESP32 and sensor devices. 
