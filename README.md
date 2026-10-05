@@ -6,6 +6,9 @@ I'm a software engineer in Buenos Aires working on AI agents and security, and a
 - 🎧 [smartcrate](https://github.com/piotromashov/smartcrate): a local-first techno curation engine. Stream candidates from the Discogs catalog, download them, and it learns what you like.
 - ⌨️ [ask](https://github.com/piotromashov/ask): a tiny CLI that turns plain English into the shell command you forgot
 - 🔬 [baycon](https://github.com/piotromashov/baycon): a Bayesian counterfactual generator for explainable AI, the code behind my IJCAI 2022 paper
+- 📓 [Personal-Doc](https://github.com/piotromashov/Personal-Doc): your own docs and command notes, one command away in the terminal
+- 🎨 [sonIA](https://github.com/piotromashov/sonIA): an AI art game for events. Scan the QR, type a prompt, and your image takes its turn on the big screen
+- 🔓 [ethernaut](https://github.com/piotromashov/ethernaut): my solutions to the Ethernaut smart-contract security CTF
 
 Feedback, issues and PRs are welcome.
 
